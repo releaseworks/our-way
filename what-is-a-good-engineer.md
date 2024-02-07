@@ -23,7 +23,7 @@ A good engineer sets realistic expectations on effort estimates. A bad engineer 
 
 A good engineer proactively shares knowledge. A bad engineer keeps solutions to themselves.
 
-A good engineer poses a technical question to their manager as "Based on my research, I think the best way to solve X is Y. Is this correct?". A bad engineer asks their manager "I don’t know how to do X. Can you help me do it?"
+A good engineer poses a technical question to their manager as "Based on my research, I think the best way to solve X is Y. Is this correct?". A bad engineer asks their manager "I don’t know how to do X. Can you do it for me?"
 
 When faced with an unknown problem, a good engineer actively searches for a number of different solutions and then does practical experiments to apply the potential solutions to their problem. If none of them work, they ask their manager for direction, clearly outlining all the solutions they have already tried. A bad engineer asks their manager for the solution.
 
